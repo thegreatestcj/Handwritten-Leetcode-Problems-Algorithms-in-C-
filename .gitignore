@@ -1,0 +1,18 @@
+# VSCode settings folder
+.vscode/
+
+# C++ compiled files
+*.out
+*.o
+*.obj
+*.exe
+
+# Mac
+.DS_Store
+
+# CMake, build system
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
