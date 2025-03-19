@@ -6,7 +6,8 @@
 *.o
 *.obj
 *.exe
-*/[^.]* 
+*/[^.]*
+!**/*.cpp
 
 # Mac
 .DS_Store
